@@ -1,0 +1,15 @@
+ALUNO: PEDRO NÍCOLLAS PEREIRA LEON LOPES
+
+. Escolher 3 datasets e aplicar o Naive Bayes (ex: aula02/Naive_Bayes_Countries.ipynb)
+
+Onde pegar datasets:
+
+. Kaggle -> https://www.kaggle.com/datasets
+
+| DATASETS ESCOLHIDOS |
+
+1 - https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
+
+2 - https://www.kaggle.com/datasets/himanshunakrani/naive-bayes-classification-data
+
+3 - https://www.kaggle.com/datasets/denisadutca/customer-behaviour
