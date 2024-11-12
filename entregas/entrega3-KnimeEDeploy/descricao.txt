@@ -1,0 +1,34 @@
+| ALUNOS |
+. Cauê de Oliveira Barbosa
+. Pedro Nícollas Pereira Leon Lopes
+. Welligton Araújo Ferreira Júnior
+
+
+| Direcionamentos |
+
+1 – Desenvolver um Projeto de Análise e Mineração de Dados com a Plataforma KNime e os seguintes itens:
+    • Construir 02 Projetos no Knime com Modelos de Classificação de Dados do início até o fim.
+
+    • Construir 01 Projeto no Knime com exemplos de Regressão e ou Clusterização
+
+2 – Construir um Projeto que implemente os conceitos de modelos de Classificação, Regressão ou Clusterização com a linguagem Python e os Algoritmos de ML,
+com a avaliação dos modelos, como: Curva ROC, Matriz de Confusão e outras.
+
+3 - Construir um servidor web em um ambiente de servidor Linux e ambiente de Deploy de aplicações de Machine Learning,
+seria importante definir um framework em Python para publicação qualquer.
+    • Pode ser um modelo de Classificação / Regressão a critério de vocês.
+
+
+| DATASETS ESCOLHIDOS |
+
+1:
+    1.1 -> https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset/
+
+    1.2 -> 
+
+    1.3 ->
+
+2: 
+
+3: 
+
