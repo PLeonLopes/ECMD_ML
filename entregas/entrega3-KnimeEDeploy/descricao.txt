@@ -32,3 +32,4 @@ seria importante definir um framework em Python para publicação qualquer.
 
 3: 
 
+Obs: Abrir arquivos (.knwf; .knar; .knime) com o KNIME (https://www.knime.com/)
