@@ -26,32 +26,32 @@
                             <!-- Idade -->
                             <div class="mb-3 col-md-6">
                                 <label for="person_age" class="form-label">Idade</label>
-                                <input type="number" class="form-control" id="person_age" name="person_age" placeholder="Digite sua idade" required>
+                                <input type="number" class="form-control" id="person_age" name="person_age" placeholder="Digite sua idade" min="18" required>
                             </div>
                             <!-- Renda Mensal -->
                             <div class="mb-3 col-md-6">
                                 <label for="person_income" class="form-label">Renda Mensal</label>
-                                <input type="number" step="0.01" class="form-control" id="person_income" name="person_income" placeholder="Digite sua renda" required>
+                                <input type="number" class="form-control" id="person_income" name="person_income" placeholder="Digite sua renda" min="0" required>
                             </div>
                         </div>
                         <div class="row">
                             <!-- Valor do Empréstimo -->
                             <div class="mb-3 col-md-6">
                                 <label for="loan_amnt" class="form-label">Valor do Empréstimo</label>
-                                <input type="number" class="form-control" id="loan_amnt" name="loan_amnt" placeholder="Digite o valor do empréstimo" required>
+                                <input type="number" class="form-control" id="loan_amnt" name="loan_amnt" placeholder="Digite o valor do empréstimo" min="0" required>
                                 <i><small>Valores possíveis: 500 - 35000</small></i>
                             </div>
                             <!-- Taxa de Juros (%) -->
                             <div class="mb-3 col-md-6">
                                 <label for="loan_int_rate" class="form-label">Taxa de Juros (%)</label>
-                                <input type="number" step="0.01" class="form-control" id="loan_int_rate" name="loan_int_rate" placeholder="Digite a taxa de juros" required>
+                                <input type="number" step="0.01" class="form-control" id="loan_int_rate" name="loan_int_rate" placeholder="Digite a taxa de juros" min="0" required>
                             </div>
                         </div>
                         <div class="row">
                             <!-- Score do Crédito -->
                             <div class="mb-3 col-md-6">
                                 <label for="credit_score" class="form-label">Score de Crédito</label>
-                                <input type="number" step="1" class="form-control" id="credit_score" name="credit_score" placeholder="Digite seu score de crédito" required>
+                                <input type="number" step="1" class="form-control" id="credit_score" name="credit_score" placeholder="Digite seu score de crédito" min="0" required>
                                 <i><small>Valores possíveis: 390 - 850</small></i>
                             </div>
                             <!-- Gênero -->
@@ -105,19 +105,19 @@
                             <!-- Experiência Profissional -->
                             <div class="mb-3 col-md-6">
                                 <label for="person_emp_exp" class="form-label">Experiência Profissional (anos)</label>
-                                <input type="number" class="form-control" id="person_emp_exp" name="person_emp_exp" placeholder="Digite os anos de experiência" required>
+                                <input type="number" class="form-control" id="person_emp_exp" name="person_emp_exp" placeholder="Digite os anos de experiência" min="0" required>
                             </div>
                         </div>
                         <div class="row">
                             <!-- % da renda para empréstimo -->
                             <div class="mb-3 col-md-6">
                                 <label for="loan_percent_income" class="form-label">% da Renda para o Empréstimo</label>
-                                <input type="number" step="0.01" class="form-control" id="loan_percent_income" name="loan_percent_income" placeholder="Digite o percentual de renda" required>
+                                <input type="number" step="0.01" class="form-control" id="loan_percent_income" name="loan_percent_income" placeholder="Digite o percentual de renda" min="0" required>
                             </div>
                             <!-- Histórico de crédito -->
                             <div class="mb-3 col-md-6">
                                 <label for="cb_person_cred_hist_length" class="form-label">Histórico de Crédito (anos)</label>
-                                <input type="number" class="form-control" id="cb_person_cred_hist_length" name="cb_person_cred_hist_length" placeholder="Digite os anos de histórico de crédito" required>
+                                <input type="number" class="form-control" id="cb_person_cred_hist_length" name="cb_person_cred_hist_length" placeholder="Digite os anos de histórico de crédito" min="0" required>
                             </div>
                         </div>
                         <div class="row">
